@@ -33,7 +33,7 @@ This is the second project in Udacity Front End Developement Nanu degree where I
 - While scrolling through the page corrosponding item from the navigation menu should be active.
 
 ### To view project
-The project is published on GitHub Pages. To view, click on this link: [link to project](https://github.com/sabinaasayeed/02_FEND_landing_page_projectt)
+The project is published on GitHub Pages. To view, click on this link: [link to project](https://github.com/sabinaasayeed/02_FEND_landing_page_project)
 
 ### How to run 
 To launch this website, simply clone the repo and open the `index.html` file in the browser. 
